@@ -1,0 +1,37 @@
+{
+  "name": "mendrixeu-plugin-crosswalk-webview-pgb-adapt",
+  "version": "1.4.0-dev-11",
+  "description": "Changes the default WebView to CrossWalk",
+  "cordova": {
+    "id": "@mendrixeu/mendrixeu-plugin-crosswalk-webview-pgb-adapt",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mendrix/mendrixeu-plugin-crosswalk-webview.git"
+  },
+  "keywords": [
+    "cordova",
+    "chromium",
+    "crosswalk",
+    "webview",
+    "engine",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=4.2.0"
+    }
+  ],
+  "author": "",
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/berthnipub/cordova-plugin-crosswalk-webview"
+}
